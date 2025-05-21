@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Process a VALID transaction111",
+			"name": "Process a VALID transaction",
 			"item": [
 				{
 					"name": "[Setup][1] Generate a New API Key",
