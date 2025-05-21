@@ -13,7 +13,7 @@
 					"name": "[Setup][1] Generate a New API Key",
 					"event": [
 						{
-							"listen": "test",
+							"listen": "test123",
 							"script": {
 								"exec": [
 									"let response = pm.response.json();",
